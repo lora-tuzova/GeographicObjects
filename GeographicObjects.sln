@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeographicObjects", "GeographicObjects\GeographicObjects.csproj", "{44E9DCA2-8487-48D0-9670-19DF34C1FBD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeographicObjectInterface", "GeographicObjectInterface\GeographicObjectInterface.csproj", "{D25EF13C-8143-4739-9A36-755AEDC724F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44E9DCA2-8487-48D0-9670-19DF34C1FBD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44E9DCA2-8487-48D0-9670-19DF34C1FBD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44E9DCA2-8487-48D0-9670-19DF34C1FBD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44E9DCA2-8487-48D0-9670-19DF34C1FBD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D25EF13C-8143-4739-9A36-755AEDC724F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25EF13C-8143-4739-9A36-755AEDC724F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D25EF13C-8143-4739-9A36-755AEDC724F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D25EF13C-8143-4739-9A36-755AEDC724F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {670864F5-90D9-429B-AF1E-5B485DBB7506}
+	EndGlobalSection
+EndGlobal
